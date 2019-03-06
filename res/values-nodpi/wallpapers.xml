@@ -17,13 +17,18 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>abstract_orderofchaos</item>
-        <item>abstract_spacestory</item>
-        <item>abstract_unsplash</item>
-        <item>nature_isolated</item>
-        <item>nature_light</item>
-        <item>space_nebulae</item>
-        <item>space_riseup</item>
-        <item>urban_nightroad</item>
+	<item>walla</item>
+        <item>wallb</item>
+        <item>wallc</item>
+        <item>walld</item>
+        <item>walle</item>
+        <item>wallf</item>
+        <item>wallg</item>
+        <item>wallh</item>
+        <item>walli</item>
+        <item>wallj</item>
+        <item>wallk</item>
+        <item>wallm</item>
+        <item>walln</item>
     </string-array>
 </resources>
