@@ -18,13 +18,13 @@
 <resources>
     <string-array name="wallpapers" translatable="false">
 	<item>walla</item>
-	<item>Arial_View_small</item>
-	<item>Ocean1_small</item>
-	<item>Beauty_small</item>
-	<item>Island1_small</item>
-	<item>Island2_small</item>
-	<item>Island3_small</item>
-	<item>WaterFall_small</item>
+	<item>arial_view</item>
+	<item>ocean1</item>
+	<item>beauty</item>
+	<item>island1</item>
+	<item>island2</item>
+	<item>island3</item>
+	<item>waterfall</item>
         <item>wallb</item>
         <item>wallc</item>
         <item>walld</item>
