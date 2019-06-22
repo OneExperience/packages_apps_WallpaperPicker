@@ -17,25 +17,13 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-	<item>walla</item>
-	<item>arial_view</item>
-	<item>ocean1</item>
-	<item>beauty</item>
-	<item>island1</item>
-	<item>island2</item>
-	<item>island3</item>
-	<item>waterfall</item>
-        <item>wallb</item>
-        <item>wallc</item>
-        <item>walld</item>
-        <item>walle</item>
-        <item>wallf</item>
-        <item>wallg</item>
-        <item>wallh</item>
-        <item>walli</item>
-        <item>wallj</item>
-        <item>wallk</item>
-        <item>wallm</item>
-        <item>walln</item>
+	<item>default_wallpaper</item>
+		<item>lava</item>
+        <item>nature_strength</item>
+        <item>mineral</item>
+        <item>calidity</item>
+        <item>another_galaxy</item>
+        <item>submerged</item>
+        <item>a_new_beginning_ver2</item>
     </string-array>
 </resources>
